@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Present title and affiliatiom
+Present Title and Affiliatiom
 ======
 
 * CIHR Postdoctoral Fellow: Department of Molecular and Human Genetics at Baylor College of Medicine, Neurological Research Institute, Houston, TX<br/>
@@ -110,7 +110,7 @@ Publications
 </br>
 </ol>
 
-Invited talks
+Invited Talks
 ======
 
 <ol>
@@ -161,7 +161,7 @@ Invited talks
 
 </ol>  
   
-Formal mentoring
+Formal Mentoring
 ======
 D. Lu - Research technician, Sep 2020 – present<br/> 
 S. Cho - Research technician, Jan 2020 – Jun 2020<br/>
@@ -178,7 +178,7 @@ S. Seang - Summer/Honours student, May 2011 – Apr 2013<br/>
 S. Abuaish - Honours/Masters student, Sep 2010 – Aug 2012<br/>
 <br/>
 
-Selected abstracts (primary presenter)
+Selected Abstracts (_Primary Presenter_)
 ======
 
 <ol>
