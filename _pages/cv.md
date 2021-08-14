@@ -53,7 +53,15 @@ Recent Awards
 Publications
 ======
 <ol>
-    
+
+<li value="21."> <b>Marcogliese PC</b>*, Deal SL*, Andrews J*, Harnish JM*, Bhavana VH, Graves HK, Jangam S, Luo X, Liu N, Bei D, Chao YH, Hull B, Lee PT, Pan H, Longley CM, Chao HT, Chung H, Haelterman NA, Kanca O, Manivannan SN, Rossetti LZ, Gerard A, Schwaibold EMC, Guerrini R, Vetro A, England E, Murali CN, Barakat TS, van Dooren MF, Wilke M, van Slegtenhorst M, Lesca G, Sabatier I, Chatron N, Brownstein CA, Madden JA, Agrawal PB, Keller R, Pavinato L, Brusco A, Rosenfeld JA, Marom R, Wangler MF#, Yamamoto S#. (2021) Drosophila functional screening of de novo variants in autism uncovers deleterious variants and facilitates discovery of rare neurodevelopmental diseases. <b><i>bioRxiv</i></b> 424813; doi: https://doi.org/10.1101/2020.12.30.424813.</li>
+*Contributed equally; #Co-corresponding
+
+	
+<li value="20."> Moulton MJ, Barish S, Ralhan I, Chang J, Goodman LD, Harland JG, <b>Marcogliese PC</b>, Johansen J, Ioannou M, Bellen HJ. (2021) Neuronal ROS-Induced Glial Lipid Droplet Formation is Altered by Loss of Alzheimer Disease-associated Genes. <b><i>bioRxiv</i></b> 433580; doi: https://doi.org/10.1101/2021.03.03.433580.</li>
+
+<li value="19."> Salazar JL, Yang S, Lin TQ, Li-Kroeger S, <b>Marcogliese PC</b>, Deal SL, Neely GG, Yamamoto S. Alzheimer’s disease-associated TM2D genes regulate Notch signaling and neuronal function in Drosophila. <b><i>bioRxiv</i></b> 440660; doi: https://doi.org/10.1101/2021.04.20.440660.</li>
+	
 <li value="18."> Rossetti LZ, Bekheirnia MR, Lewis AM, Mefford HC, Golden-Grant K, Briere LC, Sweetser DA, Walker MA, Kravets E, Stevenson DA, Bruenner G, Sebastian J, Knapo J, Rosenfeld JA, <b>Marcogliese PC</b>, Undiagnosed Diseases Network, Wangler MF. (2020) Missense variants in CTNNB1 can be associated with vitreoretinopathy—Seven new cases of CTNNB1‐associated neurodevelopmental disorder including a previously unreported retinal phenotype. <b><i>Molecular Genetics & Genomic Medicine</i></b>. e1542.</li>
 
 <li value="17."> Ravenscroft TA, Janssens J, Lee PT, Tepe B, <b>Marcogliese PC</b>, Makhzami S, Holmes T, Aerts S, Bellen HJ. (2020) Drosophila voltage-gated sodium channels are only expressed in active neurons and are localized to distal axonal initial segment-like domains. <b><i>Journal of Neuroscience</i></b>. 40:7999-8024.</li>
