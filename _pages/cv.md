@@ -52,7 +52,7 @@ Recent Awards
 
 Publications
 ======
-
+<ol reversed>
 0. Rossetti LZ, Bekheirnia MR, Lewis AM, Mefford HC, Golden-Grant K, Briere LC, Sweetser DA, Walker MA, Kravets E, Stevenson DA, Bruenner G, Sebastian J, Knapo J, Rosenfeld JA, **Marcogliese PC**, Undiagnosed Diseases Network, Wangler MF. (2020) Missense variants in CTNNB1 can be associated with vitreoretinopathy—Seven new cases of CTNNB1‐associated neurodevelopmental disorder including a previously unreported retinal phenotype. **_Molecular Genetics & Genomic Medicine_**. e1542.
 
 0. Ravenscroft TA, Janssens J, Lee PT, Tepe B, **Marcogliese PC**, Makhzami S, Holmes T, Aerts S, Bellen HJ. (2020) Drosophila voltage-gated sodium channels are only expressed in active neurons and are localized to distal axonal initial segment-like domains. **_Journal of Neuroscience_**. 40:7999-8024.
@@ -67,6 +67,7 @@ Publications
 0. Ansar M, Chung H, Al-Otaibi A, Elagabani MN, Ravenscroft TA, Paracha SA, Scholz R, TA Magid, Sarwar MT, Shah SF, Qaisar AA, Makrythanasis P, **Marcogliese PC**, Kamsteeg EJ, Falconnet E, Ranza E, Santoni FA, Aldhalaan H, Al-Asmari A, Faqeih EA, Ahmed J, Kornau HC, Bellen HJ, Antonarakis SE. (2019) Biallelic variants in IQSEC1 cause intellectual disability, developmental delay and short stature. **_American Journal of Human Genetics_**. 105(5):907-20.
 
 {: reversed="reversed"}
+</ol>
 
 12	Guo H*, Bettella E*, **Marcogliese PC***, Zhao R, Andrews JC, Nowakowski TJ, Gillentine MA, Hoekzema K, Wang T, Wu H, Jangam S, Liu C, Ni H, Willemsen MH, van Bon BW, Rinne T, Stevens SJC, Kleefstra T, Brunner HG, Ijntema H, Long M, Zhao W, Hu Z, Colson C, Nicolas RU, Schwartz C, Romano C, Castiglia L, Bottitta M, Dhar SU, Erwin DJ, Emrick L, Keren B, Afenjar A, Zhu B, Bai B, Stankiewicz P, Herman K, University of Washington Center for Mendelian Genomics, Mercimek-Andrews S, Juusola J, Wilfert AB, Jamra RA, Büttner B, Mefford HC, Muir AM, Scheffer IE, Regan BM, Malone S, Gecz J, Cobben J, Weiss JW, Waisfisz Q, Bijlsma EK, Hoffer MJV, Ruivenkamp CAL, Sartori S, Xia F, Rosenfeld JA, Bernier RA, Wangler MF, Yamamoto S, Xia K, Stegmann APA, Bellen HJ, Murgia A#, Eichler EE#. (2019) Disruptive mutations in TANC2 define a new neurodevelopmental syndrome associated with psychiatric disorders. **_Nature Communications_**. 10(1):1-7.<br/>
 		*Contributed equally<br/>
