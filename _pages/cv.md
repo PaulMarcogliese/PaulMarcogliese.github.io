@@ -73,7 +73,7 @@ Publications
 
 <li value="11."> Shutinoski B, Hakimi M, Harmsen IE, Lunn M, Rocha J, Lengacher N, Zhou YY, Khan J, Nguyen A, Hake-Volling Q, El-Kodsi D, Li J, Alikashani A, Beauchamp C, Majithia J, Coombs K, Shimshek D, **Marcogliese PC**, Park DS, Rioux JD, Philpott DJ, Woulfe JM, Hayley S, Sad S, Tomlinson JJ, Brown EG, Schlossmacher MG. (2019) Lrrk2 alleles modulate inflammation during microbial infection of mice in a sex-dependent manner. <b><i>Science Translational Medicine</i></b>. 11(511).</li>
 
-<li value="10."> Yang J, Kim KS, Iyirhiaro GO, **Marcogliese PC**, Callaghan SM, Qu D, Kim WJ, Slack RS, Park DS. (2019) DJ-1 modulates the unfolded protein response and cell death via upregulation of ATF4 following ER stress. <b><i>Cell death & disease_**. 10(2):135.</li>
+<li value="10."> Yang J, Kim KS, Iyirhiaro GO, **Marcogliese PC**, Callaghan SM, Qu D, Kim WJ, Slack RS, Park DS. (2019) DJ-1 modulates the unfolded protein response and cell death via upregulation of ATF4 following ER stress. <b><i>Cell death & disease</i></b>. 10(2):135.</li>
 
 <li value="9."> Lin G, Wang L, **Marcogliese PC**, Bellen HJ. (2019) Sphingolipids in the Pathogenesis of Parkinson's Disease and Parkinsonism. <b><i>Trends in Endocrinology and Metabolism</i></b>. 30(2):106-117.</li>
 
