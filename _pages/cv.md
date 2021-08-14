@@ -177,6 +177,55 @@ B. Philippe - Research Assistant, Sep 2013 – Aug 2014<br/>
 S. Seang - Summer/Honours student, May 2011 – Apr 2013<br/>
 S. Abuaish - Honours/Masters student, Sep 2010 – Aug 2012<br/>
 
+Selected conference and symposium abstracts (primary presenter)
+======
+
+<ol>
+
+<li value="17.">Marcogliese PC, Dutta D, Sinha-Ray S, Dang DPN, Zuo Z, Lu D, Fazal F, Ravenscroft TA, Chung H, Kanca O, Pena LDM, Yamamoto S, Might M, Meyer KC, Yeo NC, Bellen HJ. Loss of IRF2BPL impairs neuronal maintenance through excess Wnt signaling. 14th Canadian Neuroscience Meeting (Virtual Meeting), Upcoming: 2021 August 23-25, Vancouver, BC, Canada.</li><br/>
+
+<li value="16.">Marcogliese PC, Deal SL, Andrews J, Harnish JM, Bhavana VH, Graves HK, Jangam S, Luo X, Liu N, Bei D, Chao YH, Hull B, Lee PT, Pan H, Longley CM, Chao HT, Chung H, Haelterman NA, Kanca O, Manivannan SN, Rossetti LZ, Gerard A, Schwaibold EMC, Guerrini R, Vetro A, England E, Murali CN, Barakat TS, van Dooren MF, Wilke M, van Slegtenhorst M, Lesca G, Sabatier I, Chatron N, Brownstein CA, Madden JA, Agrawal PB, Keller R, Pavinato L, Brusco A, Rosenfeld JA, Marom R, Wangler MF, Yamamoto S. Drosophila functional screening of de novo variants in autism uncovers deleterious variants and facilitates discovery of rare neurodevelopmental diseases. Genomics of Rare Disease (Virtual Conference), Wellcome Genome Campus. 2021 March 22, Hinxton, Cambridgeshire, UK.<br/>
+<i>Selected for “highly commended, extended lighting talk”.</i></li><br/>
+
+<li value="15.">Marcogliese PC, Dutta D, Zuo Z, Fazal F, Ravenscroft TA, Chung H, Kanca O, Pena LDM, Yamamoto S, Bellen HJ. Loss of IRF2BPL causes an excess of wingless signaling associated with neuronal demise. TAGC 2020. April 22-26 Washington, DC, USA.<br/>
+	<i>Cancelled due to COVID-19.</i></li><br/>
+
+<li value="14.">Marcogliese PC, Dutta D, Fazal F, Wang Y, Spillmann RC, Chung H, Shashi V, Wangler MF, Yamamoto S, Pena LDM, Bellen HJ. Unravelling the mechanism underlying IRF2BPL in a neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures. ASHG 2019. Oct 15-19 Houston, TX, USA, Poster.</li><br/>
+
+<li value="13.">Marcogliese PC. Collaborating with clinicians in the UDN. 60th Annual Drosophila Research Conference 2019 Mar 27-31 Dallas, TX, USA.</li><br/>
+
+<li value="12.">Marcogliese PC, Spillmann RC, Stong N, Rosenfeld JA, Koenig MK, Ortiz D, Chung H, Wang Y, Riley K, Mirzaa G, Hemelsoet D, Yamamoto S, Wangler MF, Lee B, Nelson SF, Shashi V, Pena LDM, Bellen HJ. Loss-of-Function Variants in the Gene IRF2BPL are Associated with Neurological Phenotypes. 60th Annual Drosophila Research Conference 2019 Mar 27-31 Dallas, TX, USA, Poster.<br/>
+	<i>Selected for Poster Preview Oral Presentation</i></li><br/>
+
+<li value="11.">Marcogliese PC, Spillmann RC, Stong N, Rosenfeld JA, Koenig MK, Ortiz D, Chung H, Wang Y, Riley K, Mirzaa G, Hemelsoet D, Yamamoto S, Wangler MF, Lee B, Nelson SF, Shashi V, Pena LDM, Bellen HJ. Loss-of-Function Variants in the Gene IRF2BPL are Associated with Neurological Phenotypes. Cold Springs Harbor Laboratory - Neurodegenerative Diseases: Biology & Therapeutics 2018 Nov 28 to Dec 1 Cold Spring Harbor, NY, USA, Poster.<br/>
+<i>Selected as ‘CSHL Visitor of the Week’ - https://currentexchange.cshl.edu/blog/2018/12/visitor-of-the-week-104</i></li><br/>
+
+<li value="10.">Marcogliese PC, Deal S, Graves HK, Chao Y, Jangam S, Bhavana VH, Luo X, Liu N, Pan H, Chao H, Lee P, Scott KL, Yamamoto S, Wangler MF. In vivo functional screening of autism candidate genes using Drosophila. 2018 Jan 18-19; Molecular and Human Genetics 2018 Research Retreat, Galveston, TX, USA, Poster</li><br/>
+
+<li value="9.">Chao H*, Marcogliese PC*, Graves HK, Chao Y, Jangam S, Lagarde M, Luo X, Liu N, Manivannan SN, Saurabh S, Kanca O, Bellen HJ, Yamamoto S, Wangler MF. Identification and functional annotation of novel autism candidate genes using Drosophila studies in vivo. 2017 Mar 21; 2017 Pediatric Research Symposium – Texas Children’s Hospital, Houston, TX, USA, Poster.<br/>
+	<i>*Presented on behalf of Chao H.</i></li><br/>
+
+<li value="8.">Marcogliese PC, Chao H, Chao Y, Graves HK, Jangam S, Manivannan SN, Lagarde M, Luo X,  Liu N, Yamamoto S, Wangler MF. Functional screen of autism candidate genes using Drosophila studies in vivo. 2017 Jan 19-20; Molecular and Human Genetics 2017 Research Retreat, Galveston, TX, USA, Poster.</li><br/>
+
+<li value="7.">Marcogliese PC, Kim KS, Yang J, Wei C, Abdel-Messih E, Kabbach G, Slack R, Haque EM, Venderova K, CLINT investigators, Park DS. LRRK2 modulates phagocytic activity of microglia via phosphorylation of the actin-nucleating complex WAVE-2. 2015 Oct 17-21; SFN: Neuroscience 2015, Chicago, IL, USA, Poster.<br/>
+	<i>Chosen for Nanosymposium presentation (15 min talk).</i></li><br/>
+
+<li value="6.">Marcogliese PC, Kim KS, Wei C, Abdel-Messih E, Yang JW, Kabbach G, Slack RS, Haque EM, Venderova K, Schlossmacher MG, Hayley S, Park DS. LRRK2 modulates phagocytic activity of microglia via phosphorylation of the actin-nucleating complex WAVE-2. 2015 Jun 29 to Jul 3; Gordon Research Conference: Parkinson Disease. New London, NH, USA, Poster.<br/>
+	<i>Chosen for data blitz (1 min presentation).</i></li><br/>
+
+<li value="5.">Marcogliese PC, Kim KS, Wei C, Yang J, Abdel-Messih E, Kabbach G, Slack R, Haque EM, Venderova K, Park DS. Understanding Parkinson’s disease: LRRK2 modulates the phagocytic activity of microglia via stabilization of WAVE2. 2015 June 12; Brain Health Research Day, Ottawa, Canada, Poster.<br/>
+		<i>Awarded Runner-up for Trainee PhD Presentation award.</i></li><br/>
+
+<li value="4.">Marcogliese PC, Abuaish S, Abdel-Messih E, Kabbach G, Seang S, Li G, Slack R, Haque EM, Venderova K, Park DS. Functional LRRK2 genetic interaction screen in Drosophila. 2013 October 3; World Parkinson Congress, Montreal, Canada, Poster.</li><br/>
+
+<li value="3.">Marcogliese PC, Abuaish S, Abdel-Messih E, Kabbach G, Seang S, Li G, Slack R, Haque EM, Venderova K, Park DS. Understanding Parkinson’s Disease: Elucidating LRRK2 Genetic Interactors using Drosophila. 2013 March 6-10; AD/PD 2013, Florence, Italy, Poster.</li><br/>
+
+<li value="2.">Marcogliese PC, Abuaish S, Abdel-Messih E, Kabbach G, Li G, Slack R, Haque EM, Venderova K, Park DS. Genetic Interactors of Parkinson’s gene LRRK2 using Drosophila. 2012 March 21; Cell Death Pathways: Beyond Apoptosis, Banff, AB, Poster.</li><br/>
+
+<li value="1.">Marcogliese PC, Li G, Abuaish S, Venderova K, Kabbach G, Abdel-Messih E, Slack R, Haque EM, Park DS. Interactions of PD related gene LRRK2; Screen in Drosophila. 2011 June 17; Brain Health Research Day, Ottawa, ON, Poster.</li><br/>
+
+</ol>  
+
 Recent Academic Service
 ======
 
