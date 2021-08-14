@@ -54,8 +54,8 @@ Publications
 ======
 <ol>
 
-<li value="21."> <b>Marcogliese PC</b>*, Deal SL*, Andrews J*, Harnish JM*, Bhavana VH, Graves HK, Jangam S, Luo X, Liu N, Bei D, Chao YH, Hull B, Lee PT, Pan H, Longley CM, Chao HT, Chung H, Haelterman NA, Kanca O, Manivannan SN, Rossetti LZ, Gerard A, Schwaibold EMC, Guerrini R, Vetro A, England E, Murali CN, Barakat TS, van Dooren MF, Wilke M, van Slegtenhorst M, Lesca G, Sabatier I, Chatron N, Brownstein CA, Madden JA, Agrawal PB, Keller R, Pavinato L, Brusco A, Rosenfeld JA, Marom R, Wangler MF#, Yamamoto S#. (2021) Drosophila functional screening of de novo variants in autism uncovers deleterious variants and facilitates discovery of rare neurodevelopmental diseases. <b><i>bioRxiv</i></b> 424813; doi: https://doi.org/10.1101/2020.12.30.424813.</li>
-<body><p style="color:rgb(0,0,255);">*Contributed equally<br/> #Co-corresponding</p></body>
+<li value="21."> <b>Marcogliese PC</b>*, Deal SL*, Andrews J*, Harnish JM*, Bhavana VH, Graves HK, Jangam S, Luo X, Liu N, Bei D, Chao YH, Hull B, Lee PT, Pan H, Longley CM, Chao HT, Chung H, Haelterman NA, Kanca O, Manivannan SN, Rossetti LZ, Gerard A, Schwaibold EMC, Guerrini R, Vetro A, England E, Murali CN, Barakat TS, van Dooren MF, Wilke M, van Slegtenhorst M, Lesca G, Sabatier I, Chatron N, Brownstein CA, Madden JA, Agrawal PB, Keller R, Pavinato L, Brusco A, Rosenfeld JA, Marom R, Wangler MF#, Yamamoto S#. (2021) Drosophila functional screening of de novo variants in autism uncovers deleterious variants and facilitates discovery of rare neurodevelopmental diseases. <b><i>bioRxiv</i></b> 424813; doi: https://doi.org/10.1101/2020.12.30.424813.
+<body><p style="color:rgb(0,0,255);">*Contributed equally<br/> #Co-corresponding</p></body></li>
 	
 <li value="20."> Moulton MJ, Barish S, Ralhan I, Chang J, Goodman LD, Harland JG, <b>Marcogliese PC</b>, Johansen J, Ioannou M, Bellen HJ. (2021) Neuronal ROS-Induced Glial Lipid Droplet Formation is Altered by Loss of Alzheimer Disease-associated Genes. <b><i>bioRxiv</i></b> 433580; doi: https://doi.org/10.1101/2021.03.03.433580.</li>
 
