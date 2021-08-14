@@ -12,14 +12,12 @@ redirect_from:
 Present title and affiliatiom
 ======
 
-* CIHR Postdoctoral Fellow: Department of Molecular and Human Genetics at Baylor College of Medicine, Neurological Research Institute, Houston, TX 
-
+* CIHR Postdoctoral Fellow: Department of Molecular and Human Genetics at Baylor College of Medicine, Neurological Research Institute, Houston, TX<br/>
   Mentor - Hugo J. Bellen, D.V.M., Ph.D. - Investigator: Howard Hughes Medical Institute; Professor: Baylor College of Medicine
 
 Education
 ======
-* Ph.D. Neuroscience (Mentor: Dr. David S. Park), University of Ottawa, 2016
-
+* Ph.D. Neuroscience (Mentor: Dr. David S. Park), University of Ottawa, 2016<br/>
   _Thesis title: Characterization and Elucidation of Genomic Modifiers of DJ-1 and LRRK2 Animal Models of Parkinson’s Disease_
 * B.Sc. Hon. Integrated Science (conc. Forensic Science), Carleton University, 2010
 * B.A. Hon. Criminology (conc. Psychology), Carleton University, 2006
@@ -54,9 +52,55 @@ Recent Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+18.	Rossetti LZ, Bekheirnia MR, Lewis AM, Mefford HC, Golden-Grant K, Briere LC, Sweetser DA, Walker MA, Kravets E, Stevenson DA, Bruenner G, Sebastian J, Knapo J, Rosenfeld JA, **Marcogliese PC**, Undiagnosed Diseases Network, Wangler MF. (2020) Missense variants in CTNNB1 can be associated with vitreoretinopathy—Seven new cases of CTNNB1‐associated neurodevelopmental disorder including a previously unreported retinal phenotype. **_Molecular Genetics & Genomic Medicine_**. e1542.
+
+17.	Ravenscroft TA, Janssens J, Lee PT, Tepe B, **Marcogliese PC**, Makhzami S, Holmes T, Aerts S, Bellen HJ. (2020) Drosophila voltage-gated sodium channels are only expressed in active neurons and are localized to distal axonal initial segment-like domains. **_Journal of Neuroscience_**. 40:7999-8024.
+
+16.	Dutta D, Briere LC, Kanca O, **Marcogliese PC**, Walker MA, High FA, Vanderver A, Krier J, Carmichael N, Callahan C, Taft RJ, Simons C, Helman G, The Undiagnosed Diseases Network, Wangler MF, Yamamoto S, Sweetser DA, Bellen HJ. (2020) De novo mutations in TOMM70, a receptor of the mitochondrial import translocase, cause neurological impairment. **_Human Molecular Genetics_**. 29(9):1568-1579.
+
+15.	Chung HL, Mao X, Wang H, Park Y, **Marcogliese PC**, Rosenfels JA, Burrage LC, Liu P, Murdock DR, Yamamoto S, Wangler MF, Undiagnosed Diseases Network, Chao HT, Long H, Feng L, Bacino CA, Bellen HJ, Xiao B. (2020) De novo variants in CDK19 are associated with a new syndrome with intellectual disability and epileptic encephalopathy. **_American Journal of Human Genetics_**. 106:717-725.
+
+14.	Chung HL, Wangler MF, **Marcogliese PC**, Jo J, Ravenscroft TA, Zuo Z, Duraine L, Sadeghzadeh S, Li-Kroeger D, Schmidt RE, Pestronk A, Rosenfeld JA, Burrage L, Herndon MJ, Chen S, Undiagnosed Diseases Network, Shillington A, Vawter-Lee M, Hopkin R, Rodriguez-Smith J, Henrickson M, Lee B, Moser AB, Jones RO, Watkins P, Yoo T, Mar S, Choi M, Bucelli RC, Yamamoto S, Lee HK, Prada CE, Chae JH, Vogel TP, Bellen HJ. (2020) Loss or gain of function mutations in ACOX1 cause axonal loss via different mechanisms. **_Neuron_**. 106:589-606.<br/>
+Recommended by F1000. Neuron 106:551-3; Best paper award 2020 – BCM-MHG
+
+13. 	Ansar M, Chung H, Al-Otaibi A, Elagabani MN, Ravenscroft TA, Paracha SA, Scholz R, TA Magid, Sarwar MT, Shah SF, Qaisar AA, Makrythanasis P, Marcogliese PC, Kamsteeg EJ, Falconnet E, Ranza E, Santoni FA, Aldhalaan H, Al-Asmari A, Faqeih EA, Ahmed J, Kornau HC, Bellen HJ, Antonarakis SE. (2019) Biallelic variants in IQSEC1 cause intellectual disability, developmental delay and short stature. American Journal of Human Genetics. 105(5):907-20.
+
+12.	Guo H*, Bettella E*, **Marcogliese PC***, Zhao R, Andrews JC, Nowakowski TJ, Gillentine MA, Hoekzema K, Wang T, Wu H, Jangam S, Liu C, Ni H, Willemsen MH, van Bon BW, Rinne T, Stevens SJC, Kleefstra T, Brunner HG, Ijntema H, Long M, Zhao W, Hu Z, Colson C, Nicolas RU, Schwartz C, Romano C, Castiglia L, Bottitta M, Dhar SU, Erwin DJ, Emrick L, Keren B, Afenjar A, Zhu B, Bai B, Stankiewicz P, Herman K, University of Washington Center for Mendelian Genomics, Mercimek-Andrews S, Juusola J, Wilfert AB, Jamra RA, Büttner B, Mefford HC, Muir AM, Scheffer IE, Regan BM, Malone S, Gecz J, Cobben J, Weiss JW, Waisfisz Q, Bijlsma EK, Hoffer MJV, Ruivenkamp CAL, Sartori S, Xia F, Rosenfeld JA, Bernier RA, Wangler MF, Yamamoto S, Xia K, Stegmann APA, Bellen HJ, Murgia A#, Eichler EE#. (2019) Disruptive mutations in TANC2 define a new neurodevelopmental syndrome associated with psychiatric disorders. **_Nature Communications_**. 10(1):1-7.<br/>
+		*Contributed equally
+		#Co-corresponding
+
+11.	Shutinoski B, Hakimi M, Harmsen IE, Lunn M, Rocha J, Lengacher N, Zhou YY, Khan J, Nguyen A, Hake-Volling Q, El-Kodsi D, Li J, Alikashani A, Beauchamp C, Majithia J, Coombs K, Shimshek D, **Marcogliese PC**, Park DS, Rioux JD, Philpott DJ, Woulfe JM, Hayley S, Sad S, Tomlinson JJ, Brown EG, Schlossmacher MG. (2019) Lrrk2 alleles modulate inflammation during microbial infection of mice in a sex-dependent manner. **_Science Translational Medicine_**. 11(511).
+
+10.	Yang J, Kim KS, Iyirhiaro GO, Marcogliese PC, Callaghan SM, Qu D, Kim WJ, Slack RS, Park DS. (2019) DJ-1 modulates the unfolded protein response and cell death via upregulation of ATF4 following ER stress. Cell death & disease. 10(2):135.
+
+9.	Lin G, Wang L, Marcogliese PC, Bellen HJ. (2019) Sphingolipids in the Pathogenesis of Parkinson's Disease and Parkinsonism. Trends in Endocrinology and Metabolism. 30(2):106-117.
+
+8.	Marcogliese PC*, Shashi V*, Spillmann RC, Stong N, Rosenfeld JA, Koenig MK, Martínez-Agosto JA, Herzog M, Chen AH, Dickson PI, Lin HJ, Vera MU, Salamon N, Ortiz D, Infante E, Steyaert W, Dermaut B, Poppe B, Chung HL, Zuo Z, Lee PT, Kanca O, Xia F, Yang Y, Smith EC, Jasien J, Kansagra S, Spiridigliozzi G, El-Dairi M, Lark R, Riley K, Koeberl DD, Golden-Grant K, Program for Undiagnosed Diseases (UD-PrOZA), Undiagnosed Disease Network, Yamamoto S, Wangler MF, Mirzaa G, Hemelsoet D, Lee B, Nelson SF, Goldstein DB, Bellen HJ#, Pena LDM#. (2018) IRF2BPL is associated with neurological phenotypes. American Journal of Human Genetics. 103(2) 245-60 also on BioRxiv 322495; doi: https://doi.org/10.1101/322495. 
+	*Contributed equally
+	#Co-corresponding
+
+7.	Kim KS*, Marcogliese PC*, Yang J, Callaghan S, Resende V, Abdel-Messih E, Marras C, Visanji NP, Huang J, Schlossmacher MG, Trinkle-Mulcahy L, Slack RS, Lang AE, Canadian Lrrk2 in Inflammation Team (CLINT), Park DS. (2018) Regulation of myeloid cell phagocytosis by LRRK2 via WAVE2 complex stabilization is altered in Parkinson’s disease. Proceedings of the National Academy of Sciences of the USA. 115(22):E5164-E5173.
+     	*Contributed equally
+
+6.	Marcogliese PC, Wangler MF. (2018) Drosophila as a Model for Human Diseases. eLS 1-10.
+
+5.	Marcogliese PC, Abuaish S, Abdel-Messih E, Kabbach G, Seang S, Li G, Slack R, Haque EM, Venderova K, Park DS. (2017) LRRK2(I2020T) Functional Genetic Interactors that Modify Eye Degeneration and Dopaminergic Cell Loss in Drosophila. Human Molecular Genetics. 26(7) 1247-1257.
+
+4.	Qu D, Hage A, Don-Carolis K, Huang E, Joselin A, Safarpour F, Marcogliese PC, Rousseaux MWC, Hewitt SJ, Huang T, Im DS, Callaghan S, Dewar-Darch D, Figeys D, Slack RS, Park DS. (2015) BAG2 Gene-mediated Regulation of PINK1 Protein Is Critical for Mitochondrial Translocation of PARKIN and Neuronal Survival. Journal of Biological Chemistry. 290 (51), 30441-30452.
+
+3.	Sanchez G, Varaschin RK, Bueler H, Marcogliese PC, Park DS, Trudeau LE. (2014) Unimpaired striatal dopamine release in juvenile Parkin knockout, Pink1 knockout, DJ-1 knockout and LRRK2 R1441G transgenic mice. PLOS ONE. 14; 9(4) e94826.
+
+2.	Rousseaux MWC, Marcogliese PC, Qu D, Hewitt SJ, Seang S, Kim RH, Slack RS, Schlossmacher MG, Lagace DC, Mak TW, Park DS. (2012) Progressive Dopaminergic Cell Loss with Unilateral-to-Bilateral Progression in a Genetic Model of Parkinson’s Disease. Proceedings of the National Academy of Sciences of the USA. 109(39): 15918-23.
+Highlighted in Alzheimer Research Forum, Landhuis E, “Better PD model? Dopamine Neurons Die in Genetic Cross”, 2012 Sep 14.
+
+Brundin P and Steiner J: F1000Prime Recommendation of [Rousseaux MWC et al., Proc Natl Acad Sci U S A 2012, 109(39):15918-23]. In F1000Prime, 27 Mar 2013; DOI: 10.3410/f.717979278.793471212. F1000Prime.com/717979278#eval793471212
+
+1.	Aleyasin H*, Rousseaux MWC*, Marcogliese PC, Hewitt SJ, Irrcher I, Joselin AP, Parsanejad M, Kim RH, Rizzu P, Callaghan SM, Slack RS, Mak TW, Park DS. (2010) DJ-1 protects the nigrostriatal axis from the neurotoxin MPTP by modulation of the AKT pathway. Proceedings of the National Academy of Sciences of the USA. 107(7): 3186-3191.
+	*Contributed equally
+Cited as “Must Read” by F1000 Neuroscience (Thomas B, Beal M: 2010. F1000.com/1927965#eval1482064)
+![image](https://user-images.githubusercontent.com/88495835/129448883-35d1446c-9cbd-4100-b19d-b4636496ebba.png)
+
   
 Talks
 ======
