@@ -66,19 +66,19 @@ Talks
 
 Formal mentoring
 ======
-D. Lu - Research technician, Sep 2020 – present
-S. Cho - Research technician, Jan 2020 – Jun 2020
-F. Fazal – Research technician, Sep 2018 – Nov 2019
-Y. Wang - Undergraduate Summer Student, Jul 2018 – Sep 2018
-C. Stevens - Undergraduate Student, Aug 2017 – May 2018
-M. Durham - MD/PhD Rotation student, Jan 2017 – Mar 2017
-M. Gardezi - High School student, Sep 2016 – Jun 2017
-F. LeBrun - Summer/Honours student, May 2014 – Jun 2016
-A. Perozzo - Summer/Co-op student, May 2014 – Apr 2015
-C. Wei - Summer/Honours student, May 2013 – Apr 2015
-B. Philippe - Research Assistant, Sep 2013 – Aug 2014
-S. Seang - Summer/Honours student, May 2011 – Apr 2013
-S. Abuaish - Honours/Masters student, Sep 2010 – Aug 2012
+D. Lu - Research technician, Sep 2020 – present. 
+S. Cho - Research technician, Jan 2020 – Jun 2020. 
+F. Fazal – Research technician, Sep 2018 – Nov 2019. 
+Y. Wang - Undergraduate Summer Student, Jul 2018 – Sep 2018. 
+C. Stevens - Undergraduate Student, Aug 2017 – May 2018. 
+M. Durham - MD/PhD Rotation student, Jan 2017 – Mar 2017. 
+M. Gardezi - High School student, Sep 2016 – Jun 2017. 
+F. LeBrun - Summer/Honours student, May 2014 – Jun 2016. 
+A. Perozzo - Summer/Co-op student, May 2014 – Apr 2015.    
+C. Wei - Summer/Honours student, May 2013 – Apr 2015. 
+B. Philippe - Research Assistant, Sep 2013 – Aug 2014. 
+S. Seang - Summer/Honours student, May 2011 – Apr 2013. 
+S. Abuaish - Honours/Masters student, Sep 2010 – Aug 2012. 
 
 Recent Academic Service
 ======
