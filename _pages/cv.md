@@ -86,7 +86,7 @@ Publications
 
 <li value="6."> **Marcogliese PC**, Wangler MF. (2018) Drosophila as a Model for Human Diseases. <b><i>eLS</i></b>. 1-10.</li>
 
-<li value="5."> **Marcogliese PC**, Abuaish S, Abdel-Messih E, Kabbach G, Seang S, Li G, Slack R, Haque EM, Venderova K, Park DS. (2017) LRRK2(I2020T) Functional Genetic Interactors that Modify Eye Degeneration and Dopaminergic Cell Loss in Drosophila. <b><i>Human Molecular Genetics_**. 26(7) 1247-1257.</li>
+<li value="5."> **Marcogliese PC**, Abuaish S, Abdel-Messih E, Kabbach G, Seang S, Li G, Slack R, Haque EM, Venderova K, Park DS. (2017) LRRK2(I2020T) Functional Genetic Interactors that Modify Eye Degeneration and Dopaminergic Cell Loss in Drosophila. <b><i>Human Molecular Genetics</i></b>. 26(7) 1247-1257.</li>
 
 <li value="4."> Qu D, Hage A, Don-Carolis K, Huang E, Joselin A, Safarpour F, **Marcogliese PC**, Rousseaux MWC, Hewitt SJ, Huang T, Im DS, Callaghan S, Dewar-Darch D, Figeys D, Slack RS, Park DS. (2015) BAG2 Gene-mediated Regulation of PINK1 Protein Is Critical for Mitochondrial Translocation of PARKIN and Neuronal Survival. <b><i>Journal of Biological Chemistry</i></b>. 290 (51), 30441-30452.</li>
 
