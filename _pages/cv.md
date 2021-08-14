@@ -178,7 +178,7 @@ S. Seang - Summer/Honours student, May 2011 – Apr 2013<br/>
 S. Abuaish - Honours/Masters student, Sep 2010 – Aug 2012<br/>
 <br/>
 
-Selected Abstracts (_Primary Presenter_)
+Selected Abstracts (Primary Presenter)
 ======
 
 <ol>
