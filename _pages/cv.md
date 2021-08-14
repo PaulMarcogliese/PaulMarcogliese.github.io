@@ -177,7 +177,7 @@ B. Philippe - Research Assistant, Sep 2013 – Aug 2014<br/>
 S. Seang - Summer/Honours student, May 2011 – Apr 2013<br/>
 S. Abuaish - Honours/Masters student, Sep 2010 – Aug 2012<br/>
 
-Selected conference and symposium abstracts (primary presenter)
+Selected abstracts (primary presenter)
 ======
 
 <ol>
@@ -236,7 +236,7 @@ Recent Academic Service
 * Proctor: Faculty of Medicine, University of Ottawa, Ottawa, ON (December 2010 – May 2016)
 
 * Invited Reviewer (Journal name, Publisher): eLife, eLife Sciences; Genetics, GSA; Heliyon, Cell Press; Journal of Neuroscience Research, Wiley; Parkinsons Dis, Hindawi; Proc. Natl. Acad. Sci. U.S.A., National Academy of Sciences
-
+<br/>
 Skills
 ======
 * Skill 1
