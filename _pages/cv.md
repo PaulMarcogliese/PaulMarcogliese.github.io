@@ -9,32 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Present title and affiliatiom
+======
+
+* CIHR Postdoctoral Fellow: Department of Molecular and Human Genetics at Baylor College of Medicine, Neurological Research Institute, Houston, TX 
+Mentor - Hugo J. Bellen, D.V.M., Ph.D. - Investigator: Howard Hughes Medical Institute; Professor: Baylor College of Medicine
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D. Neuroscience (Mentor: Dr. David S. Park), University of Ottawa, 2016
+_Thesis title: Characterization and Elucidation of Genomic Modifiers of DJ-1 and LRRK2 Animal Models of Parkinson’s Disease_
+* B.Sc. Hon. Integrated Science (conc. Forensic Science), Carleton University, 2010
+* B.A. Hon. Criminology (conc. Psychology), Carleton University, 2006
 
 Publications
 ======
@@ -48,11 +34,15 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
   
 Service and leadership
 ======
