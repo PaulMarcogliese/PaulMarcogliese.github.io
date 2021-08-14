@@ -14,13 +14,13 @@ Present title and affiliatiom
 
 * CIHR Postdoctoral Fellow: Department of Molecular and Human Genetics at Baylor College of Medicine, Neurological Research Institute, Houston, TX 
 
-Mentor - Hugo J. Bellen, D.V.M., Ph.D. - Investigator: Howard Hughes Medical Institute; Professor: Baylor College of Medicine
+  Mentor - Hugo J. Bellen, D.V.M., Ph.D. - Investigator: Howard Hughes Medical Institute; Professor: Baylor College of Medicine
 
 Education
 ======
 * Ph.D. Neuroscience (Mentor: Dr. David S. Park), University of Ottawa, 2016
 
-_Thesis title: Characterization and Elucidation of Genomic Modifiers of DJ-1 and LRRK2 Animal Models of Parkinson’s Disease_
+  _Thesis title: Characterization and Elucidation of Genomic Modifiers of DJ-1 and LRRK2 Animal Models of Parkinson’s Disease_
 * B.Sc. Hon. Integrated Science (conc. Forensic Science), Carleton University, 2010
 * B.A. Hon. Criminology (conc. Psychology), Carleton University, 2006
 
