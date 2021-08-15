@@ -11,7 +11,7 @@ redirect_from:
 
 <ol>
 
-<li value="21."> <b>Marcogliese PC</b>*, Deal SL*, Andrews J*, Harnish JM*, Bhavana VH, Graves HK, Jangam S, Luo X, Liu N, Bei D, Chao YH, Hull B, Lee PT, Pan H, Longley CM, Chao HT, Chung H, Haelterman NA, Kanca O, Manivannan SN, Rossetti LZ, Gerard A, Schwaibold EMC, Guerrini R, Vetro A, England E, Murali CN, Barakat TS, van Dooren MF, Wilke M, van Slegtenhorst M, Lesca G, Sabatier I, Chatron N, Brownstein CA, Madden JA, Agrawal PB, Keller R, Pavinato L, Brusco A, Rosenfeld JA, Marom R, Wangler MF#, Yamamoto S#. (2021) Drosophila functional screening of de novo variants in autism uncovers deleterious variants and facilitates discovery of rare neurodevelopmental diseases. <b><i>bioRxiv</i></b> 424813; doi: [https://doi.org/10.1101/2020.12.30.424813].<br/>
+<li value="21."> <b>Marcogliese PC</b>*, Deal SL*, Andrews J*, Harnish JM*, Bhavana VH, Graves HK, Jangam S, Luo X, Liu N, Bei D, Chao YH, Hull B, Lee PT, Pan H, Longley CM, Chao HT, Chung H, Haelterman NA, Kanca O, Manivannan SN, Rossetti LZ, Gerard A, Schwaibold EMC, Guerrini R, Vetro A, England E, Murali CN, Barakat TS, van Dooren MF, Wilke M, van Slegtenhorst M, Lesca G, Sabatier I, Chatron N, Brownstein CA, Madden JA, Agrawal PB, Keller R, Pavinato L, Brusco A, Rosenfeld JA, Marom R, Wangler MF#, Yamamoto S#. (2021) Drosophila functional screening of de novo variants in autism uncovers deleterious variants and facilitates discovery of rare neurodevelopmental diseases. <b><i>bioRxiv</i></b> 424813; doi: <a href="https://doi.org/10.1101/2020.12.30.424813">https://doi.org/10.1101/2020.12.30.424813</a>.test<br/>
 	<i>*Contributed equally<br/>
 	#Co-corresponding</i></li>
 <br/>	
