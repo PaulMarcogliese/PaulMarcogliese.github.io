@@ -258,8 +258,8 @@ Skills
   * Statistical analysis (eg GraphPad)
   * SnapGene
   * Electrophysiology software (eg LabChart)
-  * GitHub (HTML, MD)
-Laboratory Skills <i>include but not limited to:</i>
+  * GitHub (HTML, MD)<br/>
+<b>Laboratory Skills <i>include but not limited to:</i></b>
 * Molecular biology
   * Cloning (classical, Gateway / Gibson)
   * Gene-editing (CRISPR-Cas9)
