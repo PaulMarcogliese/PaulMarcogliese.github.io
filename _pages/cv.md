@@ -241,12 +241,51 @@ Recent Academic Service
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Leadership
+  * Team building / management
+  * One-on-one Mentorship
+* Organization
+  * Concurrent multi-project development / management
+* Writing
+  * Grant writing
+  * Scientific reporting / manuscripts
+* Budget management
+* IT related
+  * Microsoft Windows and Office environments
+  * Apple Mac environments
+  * Adobe environments (Acrobat, Photoshop, Illustrator)
+  * Various Imaging related software (Zen, Las X, Imaris, Fiji)
+  * Statistical analysis (eg GraphPad)
+  * SnapGene
+  * Electrophysiology software (eg LabChart)
+  * GitHub (HTML, MD)
+Laboratory Skills <i>include but not limited to:</i>
+* Molecular biology
+  * Cloning (classical, Gateway / Gibson)
+  * Gene-editing (CRISPR-Cas9)
+  * DNA/RNA isolation
+  * PCR, RT-qPCR, RNA-seq
+* Biochemistry
+  * SDS-Page / western blotting
+  * Co-immunoprecipitation
+  * Proteomics
+* Cell Culture
+  * Primary cells (murine cortical / midbrain neurons, BMDMs, fibroblasts; human fibroblasts)
+  * Immortalized cells (various)
+  * Immunostaining (light & confocal microscopy)
+* Drosophila
+  * Genetics / husbandry
+  * Phenotyping / Behavior
+  * Electrophysiology (Electroretinograms)
+  * Dissections & immunostaining (light & confocal microscopy)
+  * Tissue prep for electron microscopy
+* Murine studies
+  * Genetics / husbandry
+  * Phenotyping / Behavioral testing
+  * EEG recordings
+  * Stereotaxic injections
+  * Viral delivery
+  * Histology
 
 Academic Memberships
 ======
