@@ -59,10 +59,10 @@ redirect_from:
 <br/>
 <li value="2."> Rousseaux MWC, <b>Marcogliese PC</b>, Qu D, Hewitt SJ, Seang S, Kim RH, Slack RS, Schlossmacher MG, Lagace DC, Mak TW, Park DS. (2012) Progressive Dopaminergic Cell Loss with Unilateral-to-Bilateral Progression in a Genetic Model of Parkinson’s Disease. <b><i>Proceedings of the National Academy of Sciences of the USA</i></b>. 109(39): 15918-23. <a href="https://pubmed.ncbi.nlm.nih.gov/23019375/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/23019375/ </a><br/> 
 		<i>Highlighted in Alzheimer Research Forum, Landhuis E, “Better PD model? Dopamine Neurons Die in Genetic Cross”, 2012 Sep 14.<br/> 
-		Brundin P and Steiner J: F1000Prime Recommendation of [Rousseaux MWC et al., Proc Natl Acad Sci U S A 2012, 109(39):15918-23]. In F1000Prime, 27 Mar 2013; DOI: 10.3410/f.717979278.793471212. <a href="https://F1000Prime.com/717979278#eval793471212/" target="_blank">F1000Prime.com/717979278#eval793471212/ </a></i></li>
+		Brundin P and Steiner J: F1000Prime Recommendation of [Rousseaux MWC et al., Proc Natl Acad Sci U S A 2012, 109(39):15918-23]. In F1000Prime, 27 Mar 2013; DOI: 10.3410/f.717979278.793471212. <a href="https://facultyopinions.com/prime/717979278#eval793471212" target="_blank">https://facultyopinions.com/prime/717979278#eval793471212 </a></i></li>
 <br/>
 <li value="1."> Aleyasin H*, Rousseaux MWC*, <b>Marcogliese PC</b>, Hewitt SJ, Irrcher I, Joselin AP, Parsanejad M, Kim RH, Rizzu P, Callaghan SM, Slack RS, Mak TW, Park DS. (2010) DJ-1 protects the nigrostriatal axis from the neurotoxin MPTP by modulation of the AKT pathway. <b><i>Proceedings of the National Academy of Sciences of the USA</i></b>. 107(7): 3186-3191. <a href="https://pubmed.ncbi.nlm.nih.gov/20133695/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/20133695/ </a> <br/> 
 		<i>*Contributed equally<br/> 
-		Cited as “Must Read” by F1000 Neuroscience (Thomas B, Beal M: 2010. <a href="https://F1000.com/1927965#eval1482064" target="_blank">F1000.com/1927965#eval1482064</a>)</i></li>
+		Cited as “Must Read” by F1000 Neuroscience (Thomas B, Beal M: 2010. <a href="https://facultyopinions.com/prime/1927965" target="_blank">https://facultyopinions.com/prime/1927965</a>)</i></li>
 <br/>
 </ol>
