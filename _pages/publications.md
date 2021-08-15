@@ -63,6 +63,6 @@ redirect_from:
 <br/>
 <li value="1."> Aleyasin H*, Rousseaux MWC*, <b>Marcogliese PC</b>, Hewitt SJ, Irrcher I, Joselin AP, Parsanejad M, Kim RH, Rizzu P, Callaghan SM, Slack RS, Mak TW, Park DS. (2010) DJ-1 protects the nigrostriatal axis from the neurotoxin MPTP by modulation of the AKT pathway. <b><i>Proceedings of the National Academy of Sciences of the USA</i></b>. 107(7): 3186-3191. <a href="https://pubmed.ncbi.nlm.nih.gov/20133695/">https://pubmed.ncbi.nlm.nih.gov/20133695/ </a> <br/> 
 		<i>*Contributed equally<br/> 
-		Cited as “Must Read” by F1000 Neuroscience (Thomas B, Beal M: 2010. <a href="https://F1000.com/1927965#eval1482064">F1000.com/1927965#eval1482064 </a>)</i></li>
+		Cited as “Must Read” by F1000 Neuroscience (Thomas B, Beal M: 2010. <a href="https://F1000.com/1927965#eval1482064">F1000.com/1927965#eval1482064</a>)</i></li>
 <br/>
 </ol>
