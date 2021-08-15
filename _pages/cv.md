@@ -261,6 +261,7 @@ Skills
   * GitHub (HTML, MD)
 <br/>
 <b>Laboratory Skills <i>include but not limited to:</i></b>
+<br/>
 * Molecular biology
   * Cloning (classical, Gateway / Gibson)
   * Gene-editing (CRISPR-Cas9)
