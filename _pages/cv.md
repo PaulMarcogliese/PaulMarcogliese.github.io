@@ -239,7 +239,7 @@ Recent Academic Service
 * Invited Reviewer (Journal name, Publisher): eLife, eLife Sciences; Genetics, GSA; Heliyon, Cell Press; Journal of Neuroscience Research, Wiley; Parkinsons Dis, Hindawi; Proc. Natl. Acad. Sci. U.S.A., National Academy of Sciences
 <br/>
 
-Skills
+Skills (include but not limited to:)
 ======
 * Leadership
   * Team building / management
@@ -259,9 +259,6 @@ Skills
   * SnapGene
   * Electrophysiology software (eg LabChart)
   * GitHub (HTML, MD)
-<br/>
-<b>Laboratory Skills <i>include but not limited to:</i></b>
-<br/>
 * Molecular biology
   * Cloning (classical, Gateway / Gibson)
   * Gene-editing (CRISPR-Cas9)
