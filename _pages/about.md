@@ -12,7 +12,7 @@ redirect_from:
 
 <p>I am currently trying to understand how excess Wnt signaling in neurons can lead to neuronal dysfunction and demise. I was led to this by determining the mechanism underlying IRF2BPL-related neuroregression (<a href="https://www.omim.org/entry/618088" target="_blank">NEDAMSS</a>). De novo truncations in IRF2BPL cause a severe neuroregression in children and IRF2BPL is also a top candidate ASD gene (<a href="https://gene.sfari.org/database/human-gene/IRF2BPL" target="_blank">SFARI Gene</a>). I have found that IRF2BPL is critical for both neural development and long-term maintenance, and loss of IRF2BPL results in excess Wnt signaling in the CNS.</p><br/>
 
-Funding for IRF2BPL-related disorders: <a href="https://www.standbyeli.org/" target="_blank">Stand by Eli</a>.
+Funding / donations for IRF2BPL-related disorders: <a href="https://www.standbyeli.org/" target="_blank">The STAND BY ELI foundation</a>.
 
 
 
