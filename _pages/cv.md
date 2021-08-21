@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Present Title and Affiliatiom
+Present Title and Affiliation
 ======
 
 * CIHR Postdoctoral Fellow: Department of Molecular and Human Genetics at Baylor College of Medicine, Neurological Research Institute, Houston, TX<br/>
