@@ -13,6 +13,7 @@ redirect_from:
 
 <p>Outside of the lab, I am fortunate to get to spend my time with my family that includes an incredible partner and two amazing daughters.</p>
 
-![images](Family.jpg)
+![image](https://user-images.githubusercontent.com/88495835/130315568-a9a1edf2-3f83-42e8-a799-b43f31140d64.png)
+
 
 
