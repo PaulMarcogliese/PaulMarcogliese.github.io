@@ -14,5 +14,7 @@ redirect_from:
 
 Funding / donations for IRF2BPL-related disorders: <a href="https://www.standbyeli.org/" target="_blank">The STAND BY ELI foundation</a>.
 
+Last updated: 7 Nov 2021
+
 
 
