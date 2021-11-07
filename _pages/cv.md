@@ -60,7 +60,7 @@ Publications
 <br/>	
 <li value="20."> Moulton MJ, Barish S, Ralhan I, Chang J, Goodman LD, Harland JG, <b>Marcogliese PC</b>, Johansen J, Ioannou M, Bellen HJ. (2021) Neuronal ROS-Induced Glial Lipid Droplet Formation is Altered by Loss of Alzheimer Disease-associated Genes. <b><i>bioRxiv</i></b> 433580; doi: <a href="https://doi.org/10.1101/2021.03.03.433580" target="_blank">https://doi.org/10.1101/2021.03.03.433580</a>.</li>
 <br/>
-<li value="19."> Salazar JL, Yang S, Lin TQ, Li-Kroeger S, <b>Marcogliese PC</b>, Deal SL, Neely GG, Yamamoto S. Alzheimer’s disease-associated TM2D genes regulate Notch signaling and neuronal function in Drosophila. <b><i>bioRxiv</i></b> 440660; doi: <a href="https://doi.org/10.1101/2021.04.20.440660" target="_blank">https://doi.org/10.1101/2021.04.20.440660</a>.</li>
+<li value="19."> Salazar JL, Yang S, Lin TQ, Li-Kroeger S, <b>Marcogliese PC</b>, Deal SL, Neely GG, Yamamoto S. Alzheimer’s disease-associated TM2D genes regulate Notch signaling and neuronal function in Drosophila. <b><i>bioRxiv</i></b> 440660; doi: <a href="https://doi.org/10.1101/2021.04.20.440660" target="_blank">https://doi.org/10.1101/2021.04.20.440660</a> <b><i>PLOS Genetics</i></b> (in press).</li>
 <br/>	
 <li value="18."> Rossetti LZ, Bekheirnia MR, Lewis AM, Mefford HC, Golden-Grant K, Briere LC, Sweetser DA, Walker MA, Kravets E, Stevenson DA, Bruenner G, Sebastian J, Knapo J, Rosenfeld JA, <b>Marcogliese PC</b>, Undiagnosed Diseases Network, Wangler MF. (2020) Missense variants in CTNNB1 can be associated with vitreoretinopathy—Seven new cases of CTNNB1‐associated neurodevelopmental disorder including a previously unreported retinal phenotype. <b><i>Molecular Genetics & Genomic Medicine</i></b>. e1542. <a href="https://pubmed.ncbi.nlm.nih.gov/33350591/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/33350591/</a> </li>
 <br/>
@@ -114,6 +114,14 @@ Invited Talks
 ======
 
 <ol>
+
+<li value="26.">Autism-related variant annotation in Drosophila: facilitating new gene discovery. NRI Seminar Series. Texas Children’s Hospital Jan & Dan Duncan Neurological Research Institute, 2021 Nov 1, Houston, TX, USA.</li><br/>
+	
+<li value="25.">In vivo functional assessment of human disease variants using Drosophila. Child Seminar Series. University of Calgary & Alberta Children's Hospital Research Institute. 2021 Oct 25. Calgary AB, Canada.</li><br/>	
+	
+<li value="24.">Drosophila in Disease Diagnosis, Mechanisms & Precision Therapy: Loss of IRF2BPL impairs neuronal maintenance via excess Wnt signaling. Department of Biochemistry and Medical Genetics: Research Seminar. University of Manitoba. 2021 Oct 12. Winnipeg MB, Canada.</li><br/>	
+	
+<li value="23.">Loss of IRF2BPL causes neurodegeneration via excess Wnt signaling. Genetic Modifiers Workshop: Lessons from Nervous System Disorders. National Institutes of Health (Virtual). 2021 September 22, Bethesda, MD, USA.</li><br/>
 
 <li value="22.">Loss of IRF2BPL causes neurodegeneration via excess Wnt signaling. Rice University Fly Meeting. 2021 July 28. Houston TX, USA.</li><br/>
 
