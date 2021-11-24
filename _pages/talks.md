@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <ol>
-
+<li value="27.">Drosophila in Disease Diagnosis, Mechanisms & Precision Therapy: Loss of IRF2BPL impairs neuronal maintenance via excess Wnt signaling. Department of Medical Neuroscience: Research Seminar. Dalhousie University. 2021 Nov 18. Halifax NS, Canada.</li><br/>
+	
 <li value="26.">Autism-related variant annotation in Drosophila: facilitating new gene discovery. NRI Seminar Series. Texas Children’s Hospital Jan & Dan Duncan Neurological Research Institute, 2021 Nov 1, Houston, TX, USA.</li><br/>
 	
 <li value="25.">In vivo functional assessment of human disease variants using Drosophila. Child Seminar Series. University of Calgary & Alberta Children's Hospital Research Institute. 2021 Oct 25. Calgary AB, Canada.</li><br/>	
