@@ -19,7 +19,7 @@ redirect_from:
 	<i>*Contributed equally<br/>
 	#Co-corresponding</i></li>
 <br/>	
-<li value="20."> Moulton MJ, Barish S, Ralhan I, Chang J, Goodman LD, Harland JG, <b>Marcogliese PC</b>, Johansen J, Ioannou M, Bellen HJ. (2021) Neuronal ROS-Induced Glial Lipid Droplet Formation is Altered by Loss of Alzheimer Disease-associated Genes. <b><i>bioRxiv</i></b> 433580; doi: <a href="https://doi.org/10.1101/2021.03.03.433580" target="_blank">https://doi.org/10.1101/2021.03.03.433580</a>.</li>
+<li value="20."> Moulton MJ, Barish S, Ralhan I, Chang J, Goodman LD, Harland JG, <b>Marcogliese PC</b>, Johansen J, Ioannou M, Bellen HJ. (2021) Neuronal ROS-Induced Glial Lipid Droplet Formation is Altered by Loss of Alzheimer Disease-associated Genes. <b><i>bioRxiv</i></b> 433580; doi: <a href="https://doi.org/10.1101/2021.03.03.433580" target="_blank">https://doi.org/10.1101/2021.03.03.433580</a>.</li> <b><i>Proceedings of the National Academy of Sciences of the USA</i></b> (in press).
 <br/>
 <li value="19."> Salazar JL, Yang S, Lin TQ, Li-Kroeger S, <b>Marcogliese PC</b>, Deal SL, Neely GG, Yamamoto S. Alzheimer’s disease-associated TM2D genes regulate Notch signaling and neuronal function in Drosophila. <b><i>bioRxiv</i></b> 440660; doi: <a href="https://doi.org/10.1101/2021.04.20.440660" target="_blank">https://doi.org/10.1101/2021.04.20.440660</a> <b><i>PLOS Genetics</i></b> (in press).</li>
 <br/>	
