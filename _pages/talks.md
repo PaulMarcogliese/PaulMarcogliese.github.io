@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <ol> 
-<li value="29.">Drosophila in Disease Diagnosis, Mechanisms & Precision Therapy: Loss of IRF2BPL impairs neuronal maintenance via excess Wnt signaling. The Hospital for Sick Children Research Institute / University of Toronto - Seminar. 2022 Jan 15. Toronto, ON Canada.li><br/>
+	
+<li value="29.">Drosophila in Disease Diagnosis, Mechanisms & Precision Therapy: Loss of IRF2BPL impairs neuronal maintenance via excess Wnt signaling. The Hospital for Sick Children Research Institute / University of Toronto - Seminar. 2022 Jan 15. Toronto, ON Canada.</li><br/>
 
 <li value="28.">Drosophila in Disease Diagnosis, Mechanisms & Precision Therapy: Loss of IRF2BPL impairs neuronal maintenance via excess Wnt signaling. School of Medicine, Medical Sciences, & Nutrition: Research Seminar. University of Aberdeen. 2021 Dec 20. Aberdeen, Scotland, UK.</li><br/>
 	
