@@ -15,7 +15,7 @@ redirect_from:
 	<i>*Contributed equally<br/>
 	#Co-corresponding</i></li>
 <br/>
-<li value="21."> <b>Marcogliese PC</b>*,#, Dutta D*, Sinha-Ray S, Dang NDP, Zuo Z, Wang Y, Lu D, Fazal F, Ravenscroft TA, Chung H, Kanca O, Wan J, Douine ED, Pena LDM, Yamamoto S, Nelson SF, Might M, Meyer KC, Yeo NC, Bellen HJ#. (2022) Loss of IRF2BPL impairs neuronal maintenance through excess Wnt signaling. <b><i>Science Advances.</i></b> 8(3):eabl5613.<br/> <a href="https://pubmed.ncbi.nlm.nih.gov/35044823/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/35044823/</a>
+<li value="21."> <b>Marcogliese PC</b>*,#, Dutta D*, Sinha-Ray S, Dang NDP, Zuo Z, Wang Y, Lu D, Fazal F, Ravenscroft TA, Chung H, Kanca O, Wan J, Douine ED, Pena LDM, Yamamoto S, Nelson SF, Might M, Meyer KC, Yeo NC, Bellen HJ#. (2022) Loss of IRF2BPL impairs neuronal maintenance through excess Wnt signaling. <b><i>Science Advances.</i></b> 8(3):eabl5613.<br/> <a href="https://pubmed.ncbi.nlm.nih.gov/35044823/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/35044823/</a><br/>
 	<i>*Contributed equally<br/>
 	#Co-corresponding</i></li>
 <br/>	
