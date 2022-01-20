@@ -15,11 +15,11 @@ redirect_from:
 	<i>*Contributed equally<br/>
 	#Co-corresponding</i></li>
 <br/>
-<li value="21."> <b>Marcogliese PC</b>*,#, Dutta D*, Sinha-Ray S, Dang NDP, Zuo Z, Wang Y, Lu D, Fazal F, Ravenscroft TA, Chung H, Kanca O, Wan J, Douine ED, Pena LDM, Yamamoto S, Nelson SF, Might M, Meyer KC, Yeo NC, Bellen HJ#. Loss of IRF2BPL impairs neuronal maintenance through excess Wnt signaling. <b><i>Science Advances</i></b> (in press).<br/>
+<li value="21."> <b>Marcogliese PC</b>*,#, Dutta D*, Sinha-Ray S, Dang NDP, Zuo Z, Wang Y, Lu D, Fazal F, Ravenscroft TA, Chung H, Kanca O, Wan J, Douine ED, Pena LDM, Yamamoto S, Nelson SF, Might M, Meyer KC, Yeo NC, Bellen HJ#. (2022) Loss of IRF2BPL impairs neuronal maintenance through excess Wnt signaling. <b><i>Science Advances.</i></b> 8(3):eabl5613.<br/> <a href="https://pubmed.ncbi.nlm.nih.gov/35044823/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/35044823/</a>
 	<i>*Contributed equally<br/>
 	#Co-corresponding</i></li>
 <br/>	
-<li value="20."> Moulton MJ, Barish S, Ralhan I, Chang J, Goodman LD, Harland JG, <b>Marcogliese PC</b>, Johansen J, Ioannou M, Bellen HJ. (2021) Neuronal ROS-Induced Glial Lipid Droplet Formation is Altered by Loss of Alzheimer Disease-associated Genes. <b><i>bioRxiv</i></b> 433580; doi: <a href="https://doi.org/10.1101/2021.03.03.433580" target="_blank">https://doi.org/10.1101/2021.03.03.433580</a>.<b><i>Proceedings of the National Academy of Sciences of the USA</i></b> (in press).</li> 
+<li value="20."> Moulton MJ, Barish S, Ralhan I, Chang J, Goodman LD, Harland JG, <b>Marcogliese PC</b>, Johansen J, Ioannou M, Bellen HJ. (2021) Neuronal ROS-Induced Glial Lipid Droplet Formation is Altered by Loss of Alzheimer Disease-associated Genes. <b><i>Proceedings of the National Academy of Sciences of the USA.</i></b> 118(52): e2112095118. <a href="https://pubmed.ncbi.nlm.nih.gov/34949639/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/34949639/</a> Also on <b><i>bioRxiv</i></b> 433580; doi: <a href="https://doi.org/10.1101/2021.03.03.433580" target="_blank">https://doi.org/10.1101/2021.03.03.433580</a>.</li> 
 <br/>
 <li value="19."> Salazar JL, Yang S, Lin TQ, Li-Kroeger S, <b>Marcogliese PC</b>, Deal SL, Neely GG, Yamamoto S. (2021) TM2D genes regulate Notch signaling and neuronal function in Drosophila. <b><i>PLoS Genetics</i></b> 17(12):e1009962. <a href="https://pubmed.ncbi.nlm.nih.gov/34905536/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/34905536/</a> Also on <b><i>bioRxiv</i></b> 440660; doi: <a href="https://doi.org/10.1101/2021.04.20.440660" target="_blank">https://doi.org/10.1101/2021.04.20.440660</a>.</li>
 <br/>	
